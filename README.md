@@ -1,6 +1,8 @@
 # Learning from data
 
-今年2月的时候开始学习台大林轩田老师的机器学习课程，感觉讲的非常好，课程的参考教材是**learning from data**，网上查阅资料的时候发现关于这本书的笔记几乎没有，所以想自己做一个学习笔记，记录教材中的习题的解法，一来可以加深自己的理解，而来也可以给后来学习的小伙伴一些参考。这份笔记主要以**learning from data**的习题解析为主，笔记形式为Markdown以及Jupyter Notebook结合的形式。因为笔者水平有限，难免有些错误，欢迎指出。 
+今年2月的时候开始学习台大林轩田老师的机器学习课程，感觉讲的非常好，课程的参考教材是**learning from data**，网上查阅资料的时候发现关于这本书的笔记几乎没有，所以想自己做一个学习笔记，记录教材中的习题的解法，一来可以加深自己的理解，而来也可以给后来学习的小伙伴一些参考。这份笔记主要以**learning from data**的习题解析为主，笔记形式为Markdown以及Jupyter Notebook结合的形式，因为笔者水平有限，难免有些错误，欢迎指出。 
+
+
 
 <br/>
 
@@ -9,9 +11,23 @@ https://blog.csdn.net/a1015553840/article/details/51085129
 http://www.vynguyen.net/category/study/machine-learning/page/6/  
 http://book.caltech.edu/bookforum/index.php
 
+
+
+书籍介绍：
+
+https://book.douban.com/subject/11026330/
+
+
+
 <br/>
 
-补充说明：由于Jupyter Notebook比较卡，后续就不上传Jupyter Notebook文件了，代码已存在子目录代码文件夹内，前两章的代码后续也会保存下来，推荐使用pdf加代码来查阅。  
+校阅：[Wang](https://github.com/Splendid-sun)
+
+
+
+<br/>
+
+补充说明：仓库中有四类文件，分别是Jupyter Notebook，py，pdf，md，代码部分保存在Jupyter Notebook和py文件中。  
 
 
 
@@ -64,6 +80,48 @@ http://book.caltech.edu/bookforum/index.php
 
 - 今天挺多朋友关注到这份资料，还是挺高兴的，我后续还会对资料进行优化，不过由于期末考，这个工作应该会等到一个月之后开始。
 
+2019/2/11
+
+- 从今天开始优化笔记内容，今天对第一章Exercise部分进行改正以及代码优化。
+
+2019/2/12
+
+- 完成Chapter 1的优化，补充了Hoeffding不等式的初等证明。
+
+2019/2/20
+
+- 完成Chapter 2的优化。
+
+2019/3/6
+
+- 完成Chapter 3的优化。
+
+2019/3/13
+
+- 完成Chapter 4的优化。
+
+2019/3/15
+
+- 完成Chapter 5的优化。
+
+2019/3/24
+
+- 完成Chapter 8的优化。
+
+2019/4/4
+
+- 完成Chapter 7的优化。
+
+2019/5/1
+
+- 完成Chapter 8的优化。
+
+2019/5/4
+
+- 完成Chapter 9的优化。
+
+
+
 <br/>
 
 ### 总结：
@@ -80,16 +138,16 @@ http://book.caltech.edu/bookforum/index.php
 
 ### 习题完成情况：
 
-| 章节      | 总共习题 | 完成习题 | 剩余部分                        |
-| --------- | -------- | -------- | ------------------------------- |
-| Chapter 1 | 25       | 25       | 无                              |
-| Chapter 2 | 32       | 32       | 无                              |
-| Chapter 3 | 35       | 35       | 无                              |
-| Chapter 4 | 38       | 38       | 无                              |
-| Chapter 5 | 11       | 11       | 无                              |
-| Chapter 6 | 43       | 36       | Problem 12,13,14,16,17,24,25    |
-| Chapter 7 | 35       | 35       | 无                              |
-| Chapter 8 | 35       | 31       | Problem 15-18                   |
-| Chapter 9 | 46       | 41       | Exercise 18,Problem 17,26,27,28 |
-| 总计      | 300      | 284      |                                 |
+| 章节      | 总共习题 | 完成习题 | 剩余部分                        | 优化情况   |
+| --------- | -------- | -------- | ------------------------------- | ---------- |
+| Chapter 1 | 25       | 25       | 无                              | 已完成优化 |
+| Chapter 2 | 32       | 32       | 无                              | 已完成优化 |
+| Chapter 3 | 35       | 35       | 无                              | 已完成优化 |
+| Chapter 4 | 38       | 38       | 无                              | 已完成优化 |
+| Chapter 5 | 11       | 11       | 无                              | 已完成优化 |
+| Chapter 6 | 43       | 40       | Problem 16,17,25                | 已完成优化 |
+| Chapter 7 | 35       | 35       | 无                              | 已完成优化 |
+| Chapter 8 | 35       | 35       | 无                              | 已完成优化 |
+| Chapter 9 | 46       | 41       | Exercise 18,Problem 17,26,27,28 | 已完成优化 |
+| 总计      | 300      | 292      |                                 |            |
 
